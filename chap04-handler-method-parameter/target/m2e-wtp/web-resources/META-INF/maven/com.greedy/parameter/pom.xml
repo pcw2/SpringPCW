@@ -4,8 +4,8 @@
 	
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.greedy</groupId>
-	<artifactId>mapping</artifactId>
-	<name>chap03-request-mapping</name>
+	<artifactId>parameter</artifactId>
+	<name>chap04-handler-method-parameter</name>
 	<packaging>war</packaging>
 	<version>1.0.0-BUILD-SNAPSHOT</version>
 	

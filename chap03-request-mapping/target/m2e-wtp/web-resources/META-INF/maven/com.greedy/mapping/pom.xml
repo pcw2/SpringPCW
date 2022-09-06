@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.greedy</groupId>
 	<artifactId>mapping</artifactId>
-	<name>chap02-request-mapping</name>
+	<name>chap03-request-mapping</name>
 	<packaging>war</packaging>
 	<version>1.0.0-BUILD-SNAPSHOT</version>
 	
